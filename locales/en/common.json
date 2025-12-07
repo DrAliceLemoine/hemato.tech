@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "predictiveModeling": "HemaPredict™",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Predictive Hematology Intelligence for Healthcare Professionals",
+    "description": "Harness the power of artificial intelligence to predict, monitor, and manage hematological conditions with unprecedented precision.",
+    "cta": "Explore the Platform"
+  },
+  "overview": {
+    "title": "Intelligent Hematology Management",
+    "description": "HematoTech revolutionizes blood analysis through predictive modeling, giving healthcare professionals the insights they need to provide better patient care."
+  },
+  "features": {
+    "title": "Core Features",
+    "centralizedManagement": {
+      "title": "Centralized Blood Test Management",
+      "description": "Manage all patient hematological data in one secure, accessible platform."
+    },
+    "anomalyDetection": {
+      "title": "Intelligent Anomaly Detection",
+      "description": "AI-powered algorithms automatically identify abnormal patterns in blood parameters."
+    },
+    "patientMonitoring": {
+      "title": "Patient Monitoring Tools",
+      "description": "Real-time dashboards for continuous patient tracking and health status overview."
+    },
+    "detailedReports": {
+      "title": "Detailed Reports",
+      "description": "Comprehensive, professional reports for clinical decision-making and patient consultation."
+    },
+    "deviceIntegration": {
+      "title": "Device Integration",
+      "description": "Seamless integration with laboratory devices and existing healthcare systems."
+    },
+    "securePlatform": {
+      "title": "Secure & Compliant",
+      "description": "HIPAA-compliant infrastructure with enterprise-grade security and data protection."
+    }
+  },
+  "predictiveModeling": {
+    "title": "HemaPredict™ - Predictive Hematology Modeling",
+    "subtitle": "Advanced AI-Driven Analytics for Hematological Intelligence",
+    "description": "HemaPredict™ represents a breakthrough in hematological intelligence, moving beyond traditional analysis to enable healthcare professionals to predict patient outcomes and optimize treatment strategies.",
+    "sections": {
+      "personalized": {
+        "title": "Personalized Hematological Models",
+        "description": "Each patient receives a unique predictive model based on their individual blood profile, medical history, and clinical context. Our AI learns from patterns specific to each patient to provide highly accurate predictions."
+      },
+      "projections": {
+        "title": "Time-Based Projections",
+        "description": "Predict hematological parameters at key intervals (30, 60, and 90 days). Plan interventions, monitor disease progression, and adjust treatment protocols with confidence."
+      },
+      "scenarios": {
+        "title": "Scenario Analysis",
+        "description": "Explore \"what-if\" scenarios to understand how different treatment approaches might affect patient hematological outcomes. Support evidence-based clinical decision-making."
+      },
+      "hemaStability": {
+        "title": "HemaStability Score™",
+        "description": "A proprietary composite score that quantifies the stability of a patient's hematological status. Higher scores indicate greater stability and lower risk of adverse hematological events."
+      }
+    },
+    "benefits": {
+      "title": "Key Benefits",
+      "items": [
+        "Earlier detection of clinical deterioration",
+        "Personalized treatment optimization",
+        "Reduced hospital readmissions",
+        "Evidence-based clinical decision support",
+        "Improved patient outcomes tracking"
+      ]
+    },
+    "report": {
+      "title": "Predictive Report Snapshot",
+      "description": "Review comprehensive insights at a glance with our intuitive predictive reports."
+    }
+  },
+  "about": {
+    "title": "About HematoTech",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower healthcare professionals with intelligent, predictive tools that enhance hematological assessment and improve patient outcomes through ethical, responsible AI."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "We envision a future where predictive hematology analytics are standard practice in healthcare, enabling early intervention, personalized medicine, and better outcomes for patients with hematological conditions worldwide."
+    },
+    "values": {
+      "title": "Our Values",
+      "items": [
+        {
+          "name": "Scientific Rigor",
+          "description": "Every feature is grounded in hematological science and validated through clinical research."
+        },
+        {
+          "name": "Patient Safety",
+          "description": "We prioritize patient safety and data integrity above all else."
+        },
+        {
+          "name": "Professional Excellence",
+          "description": "We serve healthcare professionals with tools that respect their expertise and clinical judgment."
+        },
+        {
+          "name": "Ethical AI",
+          "description": "We develop AI responsibly, with transparency and without bias."
+        }
+      ]
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "HematoTech is built by a diverse team of hematologists, software engineers, data scientists, and healthcare professionals dedicated to transforming hematological care."
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to help. Reach out to learn more about HematoTech.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "organization": "Organization / Hospital",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thank you! We'll be in touch soon."
+    },
+    "partnerships": {
+      "title": "Partnership Inquiries",
+      "description": "Interested in integrating HematoTech with your healthcare facility? Contact our partnerships team."
+    },
+    "investors": {
+      "title": "Investor Relations",
+      "description": "Learn about investment opportunities in the future of hematological intelligence."
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "product": "Product",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2025 HematoTech. All rights reserved.",
+    "language": "Language",
+    "followUs": "Follow Us"
+  }
+}
