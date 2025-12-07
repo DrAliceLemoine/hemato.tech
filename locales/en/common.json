@@ -81,6 +81,7 @@
   },
   "about": {
     "title": "About HematoTech",
+    "founder": "Founded by Dr. Alice Lemoine",
     "mission": {
       "title": "Our Mission",
       "description": "To empower healthcare professionals with intelligent, predictive tools that enhance hematological assessment and improve patient outcomes through ethical, responsible AI."

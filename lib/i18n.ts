@@ -1,7 +1,7 @@
 import enCommon from '@/locales/en/common.json';
 import frCommon from '@/locales/fr/common.json';
 
-type Language = 'en' | 'fr';
+export type Language = 'en' | 'fr';
 
 const translations: Record<Language, typeof enCommon> = {
   en: enCommon,
