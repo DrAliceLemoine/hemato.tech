@@ -16,5 +16,5 @@ export function isValidLanguage(lang: unknown): lang is Language {
   return lang === 'en' || lang === 'fr';
 }
 
-export const DEFAULT_LANGUAGE: Language = 'en';
+export const DEFAULT_LANGUAGE: Language = 'fr';
 export const SUPPORTED_LANGUAGES: Language[] = ['en', 'fr'];
